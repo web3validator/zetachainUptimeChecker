@@ -1,6 +1,4 @@
-# zetachainUptimeChecker
-telegram bot that check your uptime all day all night
-
+# Humans Uptime Checker bot
 
 Web3 Validator team has developed the checker bot that can monitor your node uptime. We can implement it on various Cosmos SDK networks and will gladly add it to humans mainnet network as soons as it will alive!
 
@@ -77,7 +75,7 @@ It's just super convenient:
 *Auto-reporting bug/errors mechanism
 
 ### how to add checker to your validator:
-Start your bot in your telegram account https://t.me/ZetaChainUpTime_bot
+Start your bot in your telegram account https://t.me/HumansUpTime_bot
 
 Then you can add validator checker through create checker button. 
  - This will make the bot check your validator for missing blocks. 
@@ -85,15 +83,15 @@ Then you can add validator checker through create checker button.
 You can show your validator checker through list checker command.
 You can delete your validator checker through delete checker command.
 
-<img width="409" alt="image" src="https://github.com/web3validator/zetachainUptimeChecker/assets/59205554/433d21c6-ce16-4582-8231-9c97e57712ab">
+<img width="372" alt="image" src="https://github.com/web3validator/web3validator-Humans_Uptime_Checker_bot/assets/59205554/1bb5020e-b739-423a-a286-eeee337bc4ee">
 
 enter your validator moniker 
 
-<img width="412" alt="image" src="https://github.com/web3validator/zetachainUptimeChecker/assets/59205554/ce62123d-9129-4eb5-a897-d482c629c420">
+<img width="380" alt="image" src="https://github.com/web3validator/web3validator-Humans_Uptime_Checker_bot/assets/59205554/2b97dcaf-e323-4a8c-87ad-ae65a7fe7aae">
 
 you will se this massage : 
 
-<img width="391" alt="image" src="https://github.com/web3validator/zetachainUptimeChecker/assets/59205554/1e0199a5-94e6-4b29-b3a0-aaeeafd705aa">
+<img width="377" alt="image" src="https://github.com/web3validator/web3validator-Humans_Uptime_Checker_bot/assets/59205554/6e91721f-e496-44eb-afa2-9ef4fab04f1c">
 
 If you will start skip the blocks , bot will ping ypu every 5 minutes 
 
