@@ -34,7 +34,7 @@ You should change everything according to your own parameters.
 
 **Run it through the service**
 ```
-nano /etc/systemd/system/humans_bot.service
+nano /etc/systemd/system/zetachain_bot.service
 ```
 ```
 [Unit]
@@ -56,8 +56,8 @@ WantedBy=multi-user.target
 
 Start service
 ```
-systemctl enable humans_bot
-systemctl start humans_bot
+systemctl enable zetachain_bot
+systemctl start zetachain_bot
 ```
 
 ## Functionality
